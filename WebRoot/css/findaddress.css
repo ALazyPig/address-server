@@ -1,0 +1,8 @@
+  .adress ul{list-style:none}
+  .search{border:1px solid #E6E6E6;position:absolute;min-width:250px;margin-left:0px;background-color:white;color:#666666;padding:3px}
+  .adress ul li{position:relative}
+  .search ul li{height:30px;text-align:left;line-height:30px;text-indent:10px;white-space:nowrap}
+  .search ul{padding:0px}
+  .li:hover{background-color:#67B4F0;color:white;cursor:pointer}
+  .ps{max-height:250px;overflow:auto;display:none;z-index:9999}
+  .jz{max-height:250px;overflow:auto;display:none;z-index:9998}
